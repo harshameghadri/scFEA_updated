@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: wnchang@iu.edu
+@main-author: wnchang@iu.edu
+@author:harshameghadri@gmail.com
 """
 
 # system lib
